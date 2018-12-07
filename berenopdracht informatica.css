@@ -10,6 +10,7 @@ body{
 	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
+	width: 768px;
 }
 
 .main-nav{
@@ -17,19 +18,19 @@ body{
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center -40px;
-	padding: 100px 20px 0px 20px;
+	padding: 100px 20px 0px 0px;
 }
 
 .main-nav a{
-	display:inline-block;
-	border-radius: 5px 0px 0px 0px;
+	display: inline-block;
+	border-radius: 5px 5px 0px 0px;
 	border-bottom: 10px solid white;
 	background-color:rgba(255, 255, 255, 0.64);
 	color:black;
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:-10px;
+	top:0px;
 	transition: top 300ms ease;
 }
 
