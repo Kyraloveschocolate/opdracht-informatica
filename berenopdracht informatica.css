@@ -51,10 +51,13 @@ h1{
 	color: aliceblue;
 	margin-left: -20; 
 	margin-right: -20;
+	
 }
 
 h2{
   font-family:'monospace';
+  display: inline;
+  width: 400px
 }
 
 .top-nav ul{
