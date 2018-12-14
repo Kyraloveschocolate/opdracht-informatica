@@ -49,6 +49,8 @@ h1{
 	margin: 20px;
 	padding: 10px 20px;
 	color: aliceblue;
+	margin-left: -20; 
+	margin-right: -20;
 }
 
 h2{
